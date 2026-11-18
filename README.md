@@ -31,7 +31,7 @@ Four routers and four subnets. I grew Subnet D from four to seven devices, movin
 
 ### 🗄️ SQL Portfolio: stored procedures and cursors (Database)
 Ten procedures across two databases that turn business rules (tax, allowances, loyalty points) into reusable code. Findings include an uncapped allowance that makes the lowest-paid manager the best-paid, and a tax cliff at 50,000. I also found and fixed an `IF EXISTS` bug that only appeared once a table had more than one row.
-👉 [`sql-portfolio/`](/sql-portfolio)
+👉 https://github.com/m1racle-exe/Miracle-Portfolio/tree/main/sql-portfolio
 
 ---
 
